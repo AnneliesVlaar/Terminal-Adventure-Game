@@ -1,0 +1,6 @@
+
+You're walking through the forest when you come across a tall tower. It feels a bit eerie, so you decide to look around some more.
+
+Suddenly, you hear someone calling out, "Hey, can you help me!?"
+
+Type `girl` and press enter to talk to her.

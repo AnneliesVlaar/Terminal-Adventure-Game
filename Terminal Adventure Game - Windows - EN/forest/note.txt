@@ -1,0 +1,17 @@
+There's a secret door right next to the tower, hidden in the bushes.
+
+You can enter it by typing `cd tower`.
+
+To get back out of the tower, or a room, you can always type `cd ..`. Don't forget the dots, or it won't work.
+
+You can always see where you are: `Terminal Adventure Game\forest>` means that you are in the forest right now.
+
+By typing `dir` you can see what's in a room. Only when it says `<DIR>` can you enter it.
+
+If you find anything that ends on .png you can look at it like this: `mspaint forest.png` or whatever you want to look at.
+
+You can look at notes like this one with: `notepad note.txt`. So to read this note again, just return to the forest and type that command.
+
+I've only been able to peek around the corner, but saw a gnome in the tower. Maybe you can talk with him by typing `gnome` when you're inside.
+
+If you see anyone else in there, you can talk with them by typing their name.
