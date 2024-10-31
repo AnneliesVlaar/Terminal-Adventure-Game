@@ -7,4 +7,4 @@ Parrot Pokkie was taken from the girl by Snerk the Extremely Magnificent. Can yo
 ![The girl has lost her parrot](https://github.com/AnneliesVlaar/Terminal-Adventure-Game/blob/94c1a1dfa87625bb0089b58de9f461ae5c9932e9/Terminal%20Adventure%20Game%20-%20Windows%20-%20EN/forest/forest.png)
 
 ## credits
-This game was developed by Extra Nice in Leeuwarden in association with VU
+This game was developed by [Extra Nice](https://www.extra-nice.net) in Leeuwarden in association with VU
